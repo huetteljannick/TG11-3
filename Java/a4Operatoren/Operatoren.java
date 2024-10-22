@@ -1,9 +1,8 @@
-package Operatoren;
-
+package a4Operatoren;
 public class Operatoren {
 
 	
-	public static void main(string[] args) {
+	public static void main(String[] args) {
 		//Eingabe
 		double z1 =11;
 		double z2 =2;
@@ -15,18 +14,18 @@ public class Operatoren {
 		double sum = z1+z2; //Plusoperator
 		double dif = z1-z2;	//Minusoperator
 		double mul = z1*z2;		//Multiplikationsoperator
-		 div = z1/z2;		//Divisionsoperator
+		double div = z1/z2;		//Divisionsoperator
 		double modulo = z1 % z2; //Rest einer Division
 		int und = a&b; //Binäre Und-Verknüpfung
 		int zweiR = a>>2; //Bitshift um 2 stellen nach rechts
 	
 		//Ausgabe
-		System.out.printIn(z1+"+"+z2+"="+sum);
-		System.out.printIn(z1+"-"+z2+"="+sum);
-		System.out.printIn(z1+"*"+z2+"="+sum);
-		System.out.printIn(z1+"/"+z2+"="+sum);
-		System.out.printIn(z1+"%"+z2+"="+modulo);
-		System.out.printIn(z1+"&"+z2+"="+und);
-		System.out.printIn(z1+">>2"+z2+"="+zweiR);
+		System.out.println(z1+"+"+z2+"="+sum);
+		System.out.println(z1+"-"+z2+"="+sum);
+		System.out.println(z1+"*"+z2+"="+sum);
+		System.out.println(z1+"/"+z2+"="+sum);
+		System.out.println(z1+"%"+z2+"="+modulo);
+		System.out.println(z1+"&"+z2+"="+und);
+		System.out.println(z1+">>2"+"="+zweiR);
 	}
 }

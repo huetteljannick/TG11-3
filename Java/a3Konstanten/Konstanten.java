@@ -1,6 +1,7 @@
 /**
 * Konstanten
 */
+package a3Konstanten;
 public class Konstanten {
 
 	//Globale Konstanten / Klassenkonstante	

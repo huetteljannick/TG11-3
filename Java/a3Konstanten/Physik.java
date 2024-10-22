@@ -1,3 +1,4 @@
+package a3Konstanten;
 public interface Physik {
 
 	//Konstante

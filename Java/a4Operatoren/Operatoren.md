@@ -27,3 +27,22 @@ Der Plusoperator kann auch Texte verknüpfen oder einen Text mit einer Zahl oder
 ## Modulo
 
 Der Modulo-Operator `z1%z2` liefert den ganzzahligen Rest einer Division von `z1` geteilt durch `z2`.
+
+## Bitoperatoren
+
+Der einfache UND-Operator nimmt die Binärwerte der Variablen`z1` und `z2` und gibt die logische Gleichung ``z1&z2`` aus.
+
+>|z1|z2|&|
+>|---|---|---|
+>|0|0|0|
+>|1|0|0|
+>|0|1|0|
+>|1|1|1|
+
+---
+Der Bitshift-Operator `z1>>` verschiebt die Binärdarstellung von `z1` nach rechts. Dabei geht das LSB (Least Significant Bit - Das Bit ganz rechts) verloren und es wird links eine 0 hinzugefügt.
+
+### Beispiel
+
+>1011 >> 1  →  0101 \
+>1011 >> 3  →  0001

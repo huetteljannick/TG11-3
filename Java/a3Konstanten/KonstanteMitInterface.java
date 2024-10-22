@@ -1,3 +1,4 @@
+package a3Konstanten;
 public class KonstanteMitInterface implements Physik {
 
 	public static void main(String[] args) {
