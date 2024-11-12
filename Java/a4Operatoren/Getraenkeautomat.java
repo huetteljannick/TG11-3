@@ -20,9 +20,9 @@ public class Getraenkeautomat{
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Preis eines Getränks: ");
 	Preis = sc.nextDouble();
-	System.out.println("Preis eines Getränks: ");
+	System.out.println("Anzahl der Getränke: ");
 	Anzahl = sc.nextInt();
-	System.out.println("Preis eines Getränks: ");
+	System.out.println("Betrag der gezahlt wird: ");
 	Betrag = sc.nextDouble();
 	
 	//Verarbeitung

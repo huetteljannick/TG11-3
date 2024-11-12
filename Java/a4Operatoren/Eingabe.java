@@ -1,4 +1,4 @@
-package Java.a4Operatoren;
+package a4Operatoren;
 
 import java.util.Scanner;
 
