@@ -24,7 +24,7 @@ public class Getraenkeautomat{
 	Anzahl = sc.nextInt();
 	System.out.println("Betrag der gezahlt wird: ");
 	Betrag = sc.nextDouble();
-	
+	sc.close();
 	//Verarbeitung
 
 	Kosten = Preis * Anzahl;

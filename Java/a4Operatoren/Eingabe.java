@@ -21,11 +21,16 @@ public class Eingabe {
         System.out.println("Dein Name:");
         String name = sc.next();
 
+        //Zeichen einlesen
+        System.out.println("Dein Geschlecht:");
+        char Geschlecht = sc.next().charAt(0);
+
         System.out.println(fkz);
         System.out.println(gz);
         System.out.println(name);
+        System.out.println(Geschlecht);
         
-
+        sc.close();
     }
     
 }
