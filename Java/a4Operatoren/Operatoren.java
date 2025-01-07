@@ -21,9 +21,9 @@ public class Operatoren {
 	
 		//Ausgabe
 		System.out.println(z1+"+"+z2+"="+sum);
-		System.out.println(z1+"-"+z2+"="+sum);
-		System.out.println(z1+"*"+z2+"="+sum);
-		System.out.println(z1+"/"+z2+"="+sum);
+		System.out.println(z1+"-"+z2+"="+dif);
+		System.out.println(z1+"*"+z2+"="+mul);
+		System.out.println(z1+"/"+z2+"="+div);
 		System.out.println(z1+"%"+z2+"="+modulo);
 		System.out.println(z1+"&"+z2+"="+und);
 		System.out.println(z1+">>2"+"="+zweiR);

@@ -26,6 +26,8 @@ public class MeinTypecasting {
 
     char buchstabeA = 'A';
     String meinBuchstabe =  new String("abc");
+    System.out.println(buchstabeA);
+    System.out.println(meinBuchstabe);
 
    }
 }
