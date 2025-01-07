@@ -15,8 +15,8 @@ Es soll ein Jahr darauf geprüft werden, ob ein Schaltjahr vorliegt oder nicht.
 
 ## Beispiele
 
-| Jahr | Ist ein Schaltjahr |
-|------|--------------------|
+|Jahr | Ist ein Schaltjahr |
+|:---:|:------------------:|
 | Jahr 2020 | true |
 | Jahr 2100 | false |
 | Jahr 2024 | true |

@@ -17,15 +17,12 @@ public class AufgabeSchaltjahr {
             isSchaltjahr = true;
         } else if (jahr % 100 == 0){
                 isSchaltjahr = false;
-        } else{
-            if (jahr % 4 == 0) {
+        } else if (jahr % 4 == 0) {
                 isSchaltjahr = true;
-            } else{
+        } else{
                 isSchaltjahr = false;
-            }
-                
         }
-
+                
         //AUSGABE
         if (isSchaltjahr == true) {
             System.out.printf("Jahr %d ist ein Schaltjahr.",jahr);
