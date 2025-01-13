@@ -7,11 +7,8 @@ public class meinSwitchCase {
 
         switch (auswahl) {
             case 0: 
-                System.out.println("Auswahl = 0");
-                
-                break;
             case 1: 
-                System.out.println("auswahl = 1");
+                System.out.println("auswahl = 0 oder 1");
                 break;
         
             default:
