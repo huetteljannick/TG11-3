@@ -1,0 +1,31 @@
+body{
+    font-family: 'Comic Sans MS';
+    margin-top: 0%;
+    background-color: #050517;
+    color: aliceblue;
+    a {
+        text-decoration: none;
+        color: aliceblue;
+    }
+    img {
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 50%;
+    }
+}
+nav {
+    font-family: 'Papyrus';
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #CF5C36;
+    margin-top: 0px;
+    overflow: auto;
+
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+}
