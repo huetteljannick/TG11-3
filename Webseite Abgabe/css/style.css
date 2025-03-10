@@ -1,0 +1,30 @@
+.inhalt {
+    margin-top: 80px;
+}
+
+.profilbild_image {
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+
+.artikel-metadata {
+    margin-top: 10px;
+}
+
+.artikelbild {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bildunterschrift {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.artikel{
+    h1 {
+    a {
+     color: #333333;
+    }
+    }
+}

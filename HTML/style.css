@@ -7,6 +7,9 @@ body{
         text-decoration: none;
         color: aliceblue;
     }
+    a :hover{
+        scale: 200%;
+    }
     img {
         display: block;
     margin-left: auto;
