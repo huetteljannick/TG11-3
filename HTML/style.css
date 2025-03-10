@@ -33,3 +33,9 @@ nav {
 iframe {
     width: 100%;
 }
+
+table, tr, td {
+    border: 1px solid aliceblue;
+    border-collapse: collapse;
+    padding: 15px;
+}
