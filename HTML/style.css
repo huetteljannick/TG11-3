@@ -29,3 +29,7 @@ nav {
         color: #000;
     }
 }
+
+iframe {
+    width: 100%;
+}
