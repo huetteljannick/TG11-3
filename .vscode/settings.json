@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "Java"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "liveServer.settings.port": 5501
 }
