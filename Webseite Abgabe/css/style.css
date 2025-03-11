@@ -1,5 +1,6 @@
 .inhalt {
     margin-top: 80px;
+    /*flex: 1 0 auto ;*/
 }
 
 .profilbild_image {
@@ -30,5 +31,5 @@
 }
 
 .footer {
-   background-color: black;
+   background-color: rgba(0, 0, 0, 0.2);
 }
