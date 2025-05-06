@@ -1,0 +1,1 @@
+print("It looks like there might be a small typo in your message. Did you mean 'https'? If you're referring to the secure version of the HTTP protocol, 'https' stands for HyperText Transfer Protocol Secure. It is used to secure data transmitted over the internet by encrypting the communication between the user's browser and the server.")
